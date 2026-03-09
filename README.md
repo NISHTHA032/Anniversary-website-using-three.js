@@ -1,4 +1,4 @@
-# 💖 Happy Anniversary Website
+ Happy Anniversary Website
 
 A small surprise website created to celebrate my parents' anniversary.
 The website displays an animated background using **Three.js**, and when the **Celebrate 🎉** button is clicked, a photo appears with a heartfelt anniversary message.
