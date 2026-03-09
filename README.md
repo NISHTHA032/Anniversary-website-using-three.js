@@ -57,7 +57,7 @@ Steps:
 5. Your website will be live at:
 
 ```
-https://your-username.github.io/anniversary-website/
+(https://nishtha032.github.io/Anniversary-website-using-three.js/)
 ```
 
 
